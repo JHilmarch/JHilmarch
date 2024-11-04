@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 <!-- MARKDOWN LINKS -->
 
 [contact-mailto]: mailto:jonatan.hilmarch@proptikom.se "Send an email to Jonatan"
-[contact-linkedin]: https://www.linkedin.com/in/%E2%98%9D-jonatan-hilmarch-30709521/ "Visit Jonatan's LinkedIn"
+[contact-linkedin]: https://www.linkedin.com/in/jhilmarch "Visit Jonatan's LinkedIn"
 [pgp-public-key]: https://keys.openpgp.org/vks/v1/by-fingerprint/54D31A1DBB52B00B8D54051D304CB5F9C479DFFA "Jonatan Hilmarch's public PGP-key"
 [work-web-page]: https://proptikom.se/ "Visit Proptikom's web page"
 
